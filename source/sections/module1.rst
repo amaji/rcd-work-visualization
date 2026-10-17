@@ -87,30 +87,20 @@ included in this toolkit.
 
 Work items should be categorized into common workflow states:
 
-**Not Started**
-~~~~~~~~~~~~~~~
-
+**Not Started:**
 Work that has been identified but has not yet begun.
 
-**In Progress**
-~~~~~~~~~~~~~~~
-
+**In Progress:**
 Work that is actively receiving attention.
 
-**Waiting / Review**
-~~~~~~~~~~~~~~~~~~~~
-
+**Waiting / Review:**
 Work that is awaiting feedback, approval, validation, or external input.
 
-**Blocked**
-~~~~~~~~~~~
-
+**Blocked:**
 Work that cannot proceed because of a dependency, access issue, resource
 limitation, or other obstacle.
 
-**Completed**
-~~~~~~~~~~~~~
-
+**Completed:**
 Work that has been finished and accepted.
 
 **Conducting the Exercise**
@@ -156,7 +146,6 @@ As work is collected, participants should consider the following
 questions:
 
 **Is the work item the right size?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Work that is too small creates unnecessary clutter.
 
@@ -182,7 +171,6 @@ The goal is to identify work items that are meaningful, understandable,
 and actionable.
 
 **What dependencies exist?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dependencies may include:
 
@@ -201,7 +189,6 @@ Dependencies may include:
 Dependencies should be documented and made visible whenever possible.
 
 **Is this unplanned work?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Participants should identify work that arrived unexpectedly and document
 its source.
@@ -222,7 +209,6 @@ This information helps reveal patterns in interruptions and reactive
 work.
 
 **Is there too much work in progress?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 One of the most common causes of context switching is having too many
 active tasks at once.
@@ -232,7 +218,6 @@ Participants should review their board and ask:
    Am I working on more items than I can realistically complete?
 
 **What work is blocked?**
-^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Blocked work often reveals hidden dependencies and organizational
 bottlenecks.
@@ -241,7 +226,6 @@ Understanding why work is blocked is often more valuable than simply
 tracking completion.
 
 **Are priorities clear?**
-^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Every work item should have a understood priority.
 
@@ -276,38 +260,33 @@ following:
 By completing this module, teams should gain:
 
 **Improved Visibility**
-~~~~~~~~~~~~~~~~~~~~~~~
 
 A shared understanding of current and upcoming work.
 
 **Better Awareness of Capacity**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A clearer picture of team workload and work in progress.
 
 **Increased Understanding of Dependencies**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Greater awareness of factors that delay or affect delivery.
 
 **More Constructive Conversations**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Discussion shifts from assumptions and opinions toward visible evidence.
 
 **Insights for Leadership**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Managers and organizational leaders gain a clearer understanding of team
 accomplishments, workload, and capacity constraints.
 
 **Module 1 Worksheet: Make Work Visible**
-=========================================
+-----------------------------------------
 
 .. _purpose-1:
 
 **Purpose**
------------
+~~~~~~~~~~~
 
 This exercise helps individuals and teams identify current work, uncover
 hidden work, expose dependencies, and recognize early signs of overload.
@@ -318,7 +297,7 @@ hidden work, expose dependencies, and recognize early signs of overload.
 what the visualization reveals.
 
 **Part 1: Work Inventory**
-==========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 List all work currently on your plate or expected in the near future.
 
@@ -338,7 +317,6 @@ List all work currently on your plate or expected in the near future.
 +-------------+-------------+--------------+----------------+--------------+
 
 **Status Options**
-------------------
 
 - Not Started
 
@@ -351,7 +329,6 @@ List all work currently on your plate or expected in the near future.
 - Completed
 
 **Priority Options**
---------------------
 
 - High
 
@@ -360,13 +337,11 @@ List all work currently on your plate or expected in the near future.
 - Low
 
 **Part 2: Examine Your Work**
-=============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **How many items are currently In Progress?**
----------------------------------------------
 
 **Does this feel manageable?**
-------------------------------
 
 - Yes
 
@@ -375,13 +350,10 @@ List all work currently on your plate or expected in the near future.
 - If not, why?
 
 **Which work items are waiting on someone or something else?**
---------------------------------------------------------------
 
 **Which tasks arrived unexpectedly?**
--------------------------------------
 
 **Where did the unplanned work originate?**
--------------------------------------------
 
 - Email
 
@@ -398,26 +370,17 @@ List all work currently on your plate or expected in the near future.
 - Other
 
 **Part 3: Reflect**
-===================
+~~~~~~~~~~~~~~~~~~~~
 
 **What is causing the most stress right now?**
-----------------------------------------------
-
-.. _section-2:
 
 **What work is most likely to become blocked?**
------------------------------------------------
 
 **What are common dependencies?**
----------------------------------
 
 **What surprised you?**
------------------------
-
-.. _section-3:
 
 **Are your priorities clear?**
-------------------------------
 
 - Yes
 
@@ -428,7 +391,7 @@ List all work currently on your plate or expected in the near future.
 If not, what is unclear?
 
 **Part 4: Team Discussion**
-===========================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 After everyone completes the worksheet, discuss:
 
@@ -447,24 +410,15 @@ Check all themes that appeared.
 - Other:
 
 **What surprised us most?**
----------------------------
-
-.. _section-4:
 
 **What about our work was previously invisible?**
--------------------------------------------------
-
-.. _section-5:
 
 **What questions do we still have?**
-------------------------------------
-
-.. _section-6:
 
 .. _expected-outcomes-1:
 
 **Expected Outcomes**
-=====================
+~~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, teams should:
 
