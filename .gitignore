@@ -1,0 +1,3 @@
+docs/build/*
+*.bak
+conda-snap.jpg
