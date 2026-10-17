@@ -3,7 +3,8 @@
 
 .. .. |project_caps| replace:: '%s' % project
 
-A practical guide for RCD teams to visualize their work and improve productivity. 
+A practical guide for RCD teams to visualize their work and improve productivity.
+====================================================================================
 
 .. toctree::
    :maxdepth: 2
