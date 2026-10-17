@@ -6,7 +6,7 @@
 .. _purpose-7:
 
 **Purpose**
------------
+~~~~~~~~~~~
 
 The previous modules focused on teaching the principles of visual work
 management. Participants learned how to identify work, break work into
@@ -21,10 +21,10 @@ into their work, identify workflow challenges, and support more informed
 conversations about priorities, capacity, and dependencies.
 
 **Project-Level Kanban**
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Project-level Kanban Templates
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Project-level Kanban template
 (blank) <https://docs.google.com/spreadsheets/d/1c-fD1Q2nf1f9w_W0Btl0f6vg6o5wEBVzjRUrnbeWciY/edit?gid=1029334762#gid=1029334762>`__
@@ -52,7 +52,6 @@ hidden, including priority, dependencies, blockers, unplanned work, and
 aging.
 
 **Suggested Uses**
-~~~~~~~~~~~~~~~~~~
 
 - Project tracking
 
@@ -65,10 +64,10 @@ aging.
 - Team planning discussions
 
 **Portfolio-Level Kanban**
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Portfolio-level Kanban Templates
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Portfolio-level Kanban template
 (blank) <https://docs.google.com/spreadsheets/d/1c-fD1Q2nf1f9w_W0Btl0f6vg6o5wEBVzjRUrnbeWciY/edit?gid=895137570#gid=895137570>`__
@@ -101,7 +100,7 @@ boards alone.
 .. _expected-outcomes-2:
 
 **Expected Outcomes**
----------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 By implementing the Kanban templates, teams should be able to:
 
@@ -118,7 +117,7 @@ By implementing the Kanban templates, teams should be able to:
 - Sustain the practices introduced throughout the toolkit.
 
 **Why Google Sheets?**
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 The templates in this toolkit were intentionally built in Google Sheets
 because most teams already have access to spreadsheets and can begin
@@ -170,7 +169,7 @@ barriers include:
 .. _start-small-3:
 
 **Start Small**
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^
 
 Do not feel obligated to implement every element of this toolkit at
 once. Begin with a few simple practices that provide immediate value,
