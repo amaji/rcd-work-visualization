@@ -32,10 +32,8 @@ smoothly across the board.
 - Helps avoid the Time Thief of **Neglected Work**
 
 **Examples of Well‑Sized Work Items**
--------------------------------------
 
 **Too Vague → Right‑Sized**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - “Fix access issues”
 
@@ -108,7 +106,6 @@ This exercise quickly exposes hidden work and clarifies flow.
 .. _start-small-1:
 
 **Start Small**
----------------
 
 Pick **three large tasks** from your current work and break each into a
 few actionable steps.
@@ -116,12 +113,12 @@ few actionable steps.
 This builds confidence and immediately improves flow.
 
 **Module 2 Worksheet: Break Work Down**
-=======================================
+----------------------------------------
 
 .. _purpose-3:
 
 **Purpose**
------------
+~~~~~~~~~~~~
 
 This exercise helps identify work that is too large and break it into
 smaller, more manageable tasks.
@@ -134,7 +131,7 @@ through the workflow.
 **Time Required:** 5–10 minutes
 
 **Step 1: Choose a Work Item**
-------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select a task that feels difficult to estimate, difficult to complete,
 too large to describe clearly, or has been sitting in progress for a
@@ -143,7 +140,7 @@ long time.
 **Work Item:**
 
 **Step 2: Break It Into Smaller Pieces**
-----------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 List the major tasks required to complete the work.
 
@@ -160,13 +157,11 @@ List the major tasks required to complete the work.
 +-----------------------+--------------+-------------------------------+
 
 **Step 3: Reflection**
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 **Did breaking this work apart reveal anything unexpected?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- Hidden dependencies
-~~~~~~~~~~~~~~~~~~~~
+☐ Hidden dependencies
 
 ☐ Missing information
 
@@ -177,19 +172,15 @@ List the major tasks required to complete the work.
 ☐ Nothing surprising
 
 **What was the most useful insight?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Team Discussion**
--------------------
 
 **What work items are most difficult for our team to break down?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **What dependencies appear most often?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Expected Outcome**
---------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, participants should:
 
