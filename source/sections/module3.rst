@@ -25,7 +25,6 @@ priorities.
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Too Much WIP**
-^^^^^^^^^^^^^^^^
 
 When too many tasks are in progress, everything slows down.
 
@@ -34,7 +33,6 @@ When too many tasks are in progress, everything slows down.
   everything competes for attention.
 
 **Unplanned Work**
-^^^^^^^^^^^^^^^^^^
 
 Interrupts and urgent requests that bypass intake displace planned work.
 
@@ -42,7 +40,6 @@ Interrupts and urgent requests that bypass intake displace planned work.
   leadership pings that pull staff away from project work.
 
 **Unknown Dependencies**
-^^^^^^^^^^^^^^^^^^^^^^^^
 
 Work stops because you’re waiting on a system, team, or approval you
 didn’t anticipate.
@@ -52,7 +49,6 @@ didn’t anticipate.
   visible upfront.
 
 **Conflicting Priorities**
-^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Competing requests push planned work aside without visibility.
 
@@ -61,7 +57,6 @@ Competing requests push planned work aside without visibility.
   with roadmap work.
 
 **Neglected Work**
-^^^^^^^^^^^^^^^^^^
 
 Work that sits untouched because urgent items always win.
 
@@ -70,8 +65,6 @@ Work that sits untouched because urgent items always win.
 
 This module helps teams surface those patterns in a lightweight,
 practical way.
-
-.. _section-7:
 
 **Time Thief Identification Exercise**
 --------------------------------------
@@ -82,7 +75,6 @@ flow, and pattern recognition but designed specifically for RCD work.
 Run it for **3–5 days**.
 
 **Step 1: Capture Disruptions in Real Time**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each time your work is interrupted or delayed, jot down:
 
@@ -99,7 +91,6 @@ This helps surface **Unplanned Work** and **Conflicting Priorities** in
 a way that reflects actual RCD workflows.
 
 **Step 2: Mark Stalled Work on Your Board / Spreadsheet**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Add a simple “stalled” tag or color to any work item that:
 
@@ -115,7 +106,6 @@ This reveals **Neglected Work** and **Too Much WIP** without needing a
 formal WIP limit exercise.
 
 **Step 3: Note Every Dependency That Appears**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Each time work stops because you’re waiting on something, capture:
 
@@ -129,26 +119,24 @@ This exposes **Unknown Dependencies** in a way that’s directly tied to
 RCD systems (storage, identity, Globus, Slurm, API workflows).
 
 **Step 4: Cluster What You Found Into Patterns**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 At the end of the observation window, group your notes into the five
 Time Thieves:
 
-- **Unplanned Work**
+- Unplanned Work
 
-- **Unknown Dependencies**
+- Unknown Dependencies
 
-- **Conflicting Priorities**
+- Conflicting Priorities
 
-- **Neglected Work**
+- Neglected Work
 
-- **Too Much WIP**
+- Too Much WIP
 
 This step is inspired by MWV’s emphasis on pattern recognition, but the
 patterns you identify will be unique to your RCD environment.
 
 **Step 5: Reflect on What Became Visible**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Use these questions to deepen insight:
 
@@ -167,7 +155,6 @@ This is the “make it visible → learn → act” loop, adapted for RCD.
 .. _start-small-2:
 
 **Start Small**
-~~~~~~~~~~~~~~~
 
 Pick **one Time Thief** you suspect is affecting your team, such as
 **Unplanned Work**, and track it for just a few days.
@@ -175,17 +162,17 @@ Pick **one Time Thief** you suspect is affecting your team, such as
 Let what becomes visible guide your next step.
 
 **Module 3 Worksheet: Unplanned Work Tracker**
-==============================================
+-----------------------------------------------
 
 .. _purpose-5:
 
 **Purpose**
------------
+~~~~~~~~~~~~
 
 Track unexpected work for one week and identify patterns.
 
 **Instructions**
-----------------
+~~~~~~~~~~~~~~~~~
 
 Each time unplanned work interrupts your day, record it below.
 
@@ -203,7 +190,6 @@ Each time unplanned work interrupts your day, record it below.
 +----------+-----------------------+----------------+-------------------+
 
 **Common Sources**
-~~~~~~~~~~~~~~~~~~
 
 - Email
 
@@ -218,43 +204,35 @@ Each time unplanned work interrupts your day, record it below.
 - Meeting
 
 **Reflection**
---------------
+~~~~~~~~~~~~~~
 
 After one week, answer the following questions.
 
 **How many unplanned work items did you receive?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **What source generated the most interruptions?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **What work was interrupted most often?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Did any patterns emerge?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Were there interruptions that could have been prevented?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _team-discussion-1:
 
 **Team Discussion**
--------------------
+~~~~~~~~~~~~~~~~~~~~
 
 **What surprised us?**
-~~~~~~~~~~~~~~~~~~~~~~
 
 **How does unplanned work affect our priorities?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **What is one change we could try?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _expected-outcome-1:
 
 **Expected Outcome**
---------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, teams should:
 
@@ -281,7 +259,6 @@ interruptions, and frustration.
 **Time Required:** 5-10 minutes
 
 **Step 1: Review Your Work**
-----------------------------
 
 Think about your work from the previous exercises.
 
@@ -302,7 +279,6 @@ Which Time Thieves appeared?
 +-----------------------------------+-----------------------------------+
 
 **Step 2: Which Time Thief Has the Greatest Impact?**
------------------------------------------------------
 
 Select one.
 
@@ -317,28 +293,23 @@ Select one.
 - Neglected Work
 
 **Why did you choose it?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Step 3: Team Discussion**
----------------------------
 
 Compare answers across the team.
 
 **Which Time Thief appeared most frequently?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Which Time Thief created the most stress?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _section-8:
 
 **Which Time Thief was least visible before these exercises?**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _expected-outcome-2:
 
 **Expected Outcome**
---------------------
+~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, participants should:
 
