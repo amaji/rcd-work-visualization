@@ -132,6 +132,7 @@ dependencies and blockers, tracking work in progress, and creating a
 shared understanding of workload and priorities.
 
 **Sustaining the Practice**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Making work visible is relatively easy. Keeping work visible over time
 is much harder.
@@ -169,7 +170,7 @@ barriers include:
 .. _start-small-3:
 
 **Start Small**
-^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~
 
 Do not feel obligated to implement every element of this toolkit at
 once. Begin with a few simple practices that provide immediate value,
