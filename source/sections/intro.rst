@@ -141,8 +141,7 @@ help teams develop a shared understanding of their work. Each module
 builds upon the previous one and gradually moves participants from
 visibility to insight.
 
-Module 1: Make Work Visible
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Module 1: Make Work Visible**
 
 Identify and visualize current and upcoming work using the provided
 worksheet.
@@ -152,14 +151,12 @@ worksheet.
 Transform large or ambiguous work items into smaller, more manageable
 tasks.
 
-Module 3: Surface Time Thieves
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Module 3: Surface Time Thieves**
 
 Identify common workflow challenges such as unplanned work, excessive
 work in progress, hidden dependencies, and conflicting priorities.
 
-Module 4: Visualize Team Health
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Module 4: Visualize Team Health**
 
 Use simple metrics and dashboards to better understand workload,
 capacity, and organizational priorities.
@@ -167,8 +164,7 @@ capacity, and organizational priorities.
 How to use the Toolkit
 ----------------------
 
-Start Small
-~~~~~~~~~~~
+**Start Small**
 
 This toolkit emphasizes small, sustainable improvements rather than
 large process changes.
