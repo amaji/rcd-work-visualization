@@ -1,11 +1,11 @@
 .. _module-2-break-work-down-1:
 
-**Module 2: Break Work Down**
+Module 2: Break Work Down
 =============================
 
 .. _purpose-2:
 
-**Purpose**
+Purpose
 -----------
 
 Make work easier to track, prioritize, and finish.
@@ -16,7 +16,7 @@ issues”) or too granular (“email researcher”). Right‑sizing work exposes
 module helps teams shape work into clear, actionable units that move
 smoothly across the board.
 
-**Why Right‑Sizing Work Matters**
+Why Right‑Sizing Work Matters
 ---------------------------------
 
 - Reveals hidden **dependencies**
@@ -61,7 +61,7 @@ smoothly across the board.
 
 Right‑sized work is clear, actionable, and finishable within a few days.
 
-**Breakdown Checklist**
+Breakdown Checklist
 -----------------------
 
 Use this quick checklist to shape any work item:
@@ -80,7 +80,7 @@ Use this quick checklist to shape any work item:
 
 If an item fails any check, break it down.
 
-**Quick Exercise: Refine an Oversized Card**
+Quick Exercise: Refine an Oversized Card
 --------------------------------------------
 
 A 5‑minute team activity:
@@ -112,12 +112,12 @@ few actionable steps.
 
 This builds confidence and immediately improves flow.
 
-**Module 2 Worksheet: Break Work Down**
+Module 2 Worksheet: Break Work Down
 ----------------------------------------
 
 .. _purpose-3:
 
-**Purpose**
+Purpose
 ~~~~~~~~~~~~
 
 This exercise helps identify work that is too large and break it into
@@ -130,7 +130,7 @@ through the workflow.
 
 **Time Required:** 5–10 minutes
 
-**Step 1: Choose a Work Item**
+Step 1: Choose a Work Item
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Select a task that feels difficult to estimate, difficult to complete,
@@ -139,7 +139,7 @@ long time.
 
 **Work Item:**
 
-**Step 2: Break It Into Smaller Pieces**
+Step 2: Break It Into Smaller Pieces
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 List the major tasks required to complete the work.
@@ -156,7 +156,7 @@ List the major tasks required to complete the work.
 |                       |              |                               |
 +-----------------------+--------------+-------------------------------+
 
-**Step 3: Reflection**
+Step 3: Reflection
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Did breaking this work apart reveal anything unexpected?**
@@ -179,7 +179,7 @@ List the major tasks required to complete the work.
 
 **What dependencies appear most often?**
 
-**Expected Outcome**
+Expected Outcome
 ~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, participants should:
