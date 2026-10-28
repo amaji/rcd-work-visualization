@@ -1,18 +1,18 @@
 .. _module-3-surface-time-thieves-1:
 
-**Module 3: Surface Time Thieves**
+Module 3: Surface Time Thieves
 ==================================
 
 .. _purpose-4:
 
-**Purpose**
+Purpose
 -----------
 
 Help identify the patterns that steal time, disrupt flow, and quietly
 drain capacity using RCD‑specific exercises inspired by the principles
 in *Making Work Visible*.
 
-**Time Thieves**
+Time Thieves
 ----------------
 
 Time Thieves are the recurring patterns that quietly steal time, disrupt
@@ -21,7 +21,7 @@ differently in RCD environments: interrupt‑driven work, unclear
 handoffs, system dependencies, customer delays, and competing
 priorities.
 
-**Common Time Thieves**
+Common Time Thieves
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 **Too Much WIP**
@@ -66,7 +66,7 @@ Work that sits untouched because urgent items always win.
 This module helps teams surface those patterns in a lightweight,
 practical way.
 
-**Time Thief Identification Exercise**
+Time Thief Identification Exercise
 --------------------------------------
 
 This exercise is *inspired by* :mark:`book’s` emphasis on visibility,
@@ -161,17 +161,17 @@ Pick **one Time Thief** you suspect is affecting your team, such as
 
 Let what becomes visible guide your next step.
 
-**Module 3 Worksheet: Unplanned Work Tracker**
+Module 3 Worksheet: Unplanned Work Tracker
 -----------------------------------------------
 
 .. _purpose-5:
 
-**Purpose**
+Purpose
 ~~~~~~~~~~~~
 
 Track unexpected work for one week and identify patterns.
 
-**Instructions**
+Instructions
 ~~~~~~~~~~~~~~~~~
 
 Each time unplanned work interrupts your day, record it below.
@@ -203,7 +203,7 @@ Each time unplanned work interrupts your day, record it below.
 
 - Meeting
 
-**Reflection**
+Reflection
 ~~~~~~~~~~~~~~
 
 After one week, answer the following questions.
@@ -220,7 +220,7 @@ After one week, answer the following questions.
 
 .. _team-discussion-1:
 
-**Team Discussion**
+Team Discussion
 ~~~~~~~~~~~~~~~~~~~~
 
 **What surprised us?**
@@ -231,7 +231,7 @@ After one week, answer the following questions.
 
 .. _expected-outcome-1:
 
-**Expected Outcome**
+Expected Outcome
 ~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, teams should:
@@ -244,12 +244,12 @@ By completing this exercise, teams should:
 
 - Start conversations about workload and priorities.
 
-**Module 3 Worksheet: Identify Your Time Thieves**
+Module 3 Worksheet: Identify Your Time Thieves
 --------------------------------------------------
 
 .. _purpose-6:
 
-**Purpose**
+Purpose
 ~~~~~~~~~~~
 
 Review your work visualization board and Unplanned Work Tracker and
@@ -308,7 +308,7 @@ Compare answers across the team.
 
 .. _expected-outcome-2:
 
-**Expected Outcome**
+Expected Outcome
 ~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, participants should:
