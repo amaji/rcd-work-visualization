@@ -1,11 +1,11 @@
 .. _module-4-operationalize-the-practice-1:
 
-**Module 4: Operationalize the Practice**
+Module 4: Operationalize the Practice
 -----------------------------------------
 
 .. _purpose-7:
 
-**Purpose**
+Purpose
 ~~~~~~~~~~~
 
 The previous modules focused on teaching the principles of visual work
@@ -20,7 +20,7 @@ to provide a lightweight framework that helps teams maintain visibility
 into their work, identify workflow challenges, and support more informed
 conversations about priorities, capacity, and dependencies.
 
-**Project-Level Kanban**
+Project-Level Kanban
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Project-level Kanban Templates
@@ -63,7 +63,7 @@ aging.
 
 - Team planning discussions
 
-**Portfolio-Level Kanban**
+Portfolio-Level Kanban
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Portfolio-level Kanban Templates
@@ -99,7 +99,7 @@ boards alone.
 
 .. _expected-outcomes-2:
 
-**Expected Outcomes**
+Expected Outcomes
 ~~~~~~~~~~~~~~~~~~~~~
 
 By implementing the Kanban templates, teams should be able to:
@@ -116,7 +116,7 @@ By implementing the Kanban templates, teams should be able to:
 
 - Sustain the practices introduced throughout the toolkit.
 
-**Why Google Sheets?**
+Why Google Sheets?
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 The templates in this toolkit were intentionally built in Google Sheets
@@ -131,7 +131,7 @@ than the practices it supports: making work visible, surfacing
 dependencies and blockers, tracking work in progress, and creating a
 shared understanding of workload and priorities.
 
-**Sustaining the Practice**
+Sustaining the Practice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Making work visible is relatively easy. Keeping work visible over time
@@ -169,7 +169,7 @@ barriers include:
 
 .. _start-small-3:
 
-**Start Small**
+Start Small
 ~~~~~~~~~~~~~~~~
 
 Do not feel obligated to implement every element of this toolkit at
