@@ -1,9 +1,9 @@
 .. _module-1-make-work-visible-1:
 
-**Module 1: Make Work Visible**
+Module 1: Make Work Visible
 ===============================
 
-**Purpose**
+Purpose
 -----------
 
 The first step toward improving workflow is making work visible.
@@ -24,7 +24,7 @@ The goal of this module is to help individuals and teams create a
 complete picture of their work so that informed discussions can occur
 around priorities, capacity, dependencies, and team health.
 
-**Why This Matters**
+Why This Matters
 --------------------
 
 Invisible work creates many of the challenges described in *Making Work
@@ -52,7 +52,7 @@ complete.
 Making work visible does not solve every problem. It does, however, make
 problems visible enough to discuss and address.
 
-**Learning Objectives**
+Learning Objectives
 -----------------------
 
 After completing this module, participants should be able to:
@@ -74,7 +74,7 @@ After completing this module, participants should be able to:
 
 .. _section-1:
 
-**Recommended Approach**
+Recommended Approach
 ------------------------
 
 This module uses a personal or team Kanban board as a visualization
@@ -103,10 +103,10 @@ limitation, or other obstacle.
 **Completed:**
 Work that has been finished and accepted.
 
-**Conducting the Exercise**
+Conducting the Exercise
 ---------------------------
 
-**Step 1: Capture Your Work**
+Step 1: Capture Your Work
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 For one week, record:
@@ -139,7 +139,7 @@ Focus on capturing work that:
 
 The objective is not perfect accuracy. The objective is visibility.
 
-**Step 2: Evaluate Each Work Item**
+Step 2: Evaluate Each Work Item
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 As work is collected, participants should consider the following
@@ -232,7 +232,7 @@ Every work item should have a understood priority.
 When priorities are unclear, teams often default to the most recent
 request rather than the most important work.
 
-**Reflection Questions**
+Reflection Questions
 ------------------------
 
 After maintaining the board for approximately one week, consider the
@@ -254,7 +254,7 @@ following:
 
 - What work is most at risk of becoming neglected?
 
-**Expected Outcomes**
+Expected Outcomes
 ---------------------
 
 By completing this module, teams should gain:
@@ -280,12 +280,12 @@ Discussion shifts from assumptions and opinions toward visible evidence.
 Managers and organizational leaders gain a clearer understanding of team
 accomplishments, workload, and capacity constraints.
 
-**Module 1 Worksheet: Make Work Visible**
+Module 1 Worksheet: Make Work Visible
 -----------------------------------------
 
 .. _purpose-1:
 
-**Purpose**
+Purpose
 ~~~~~~~~~~~
 
 This exercise helps individuals and teams identify current work, uncover
@@ -296,7 +296,7 @@ hidden work, expose dependencies, and recognize early signs of overload.
 **Instructions:** List your active and upcoming work, then reflect on
 what the visualization reveals.
 
-**Part 1: Work Inventory**
+Part 1: Work Inventory
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 List all work currently on your plate or expected in the near future.
@@ -336,7 +336,7 @@ List all work currently on your plate or expected in the near future.
 
 - Low
 
-**Part 2: Examine Your Work**
+Part 2: Examine Your Work
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **How many items are currently In Progress?**
@@ -369,7 +369,7 @@ List all work currently on your plate or expected in the near future.
 
 - Other
 
-**Part 3: Reflect**
+Part 3: Reflect
 ~~~~~~~~~~~~~~~~~~~~
 
 **What is causing the most stress right now?**
@@ -390,7 +390,7 @@ List all work currently on your plate or expected in the near future.
 
 If not, what is unclear?
 
-**Part 4: Team Discussion**
+Part 4: Team Discussion
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 After everyone completes the worksheet, discuss:
@@ -417,7 +417,7 @@ Check all themes that appeared.
 
 .. _expected-outcomes-1:
 
-**Expected Outcomes**
+Expected Outcomes
 ~~~~~~~~~~~~~~~~~~~~~~
 
 By completing this exercise, teams should:
